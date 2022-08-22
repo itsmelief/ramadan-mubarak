@@ -3,4 +3,5 @@ KONTEN KEDEPANNYA :
 - CSS
  * Boostrap
  * Tailwind CSS
-- PHP Native
+- PHP
+- Haskell
