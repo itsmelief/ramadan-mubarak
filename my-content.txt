@@ -5,6 +5,7 @@ KONTEN KEDEPANNYA :
 - CSS
  * Boostrap
  * Tailwind CSS
+- Haskell
 - PHP Native
 - Python
  * Django
