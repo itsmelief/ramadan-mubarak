@@ -1,7 +1,11 @@
 KONTEN KEDEPANNYA :
 - Javascript
+  * jQuery
+  * ES6
 - CSS
  * Boostrap
  * Tailwind CSS
-- PHP
 - Haskell
+- PHP Native
+- Python
+ * Django
