@@ -1,0 +1,6 @@
+KONTEN KEDEPANNYA :
+- Javascript
+- CSS
+ * Boostrap
+ * Tailwind CSS
+- PHP Native
