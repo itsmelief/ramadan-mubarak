@@ -7,3 +7,4 @@ KONTEN KEDEPANNYA :
  * Tailwind CSS
 - PHP Native
 - Python
+ * Django
