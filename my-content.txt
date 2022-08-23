@@ -1,4 +1,4 @@
-KONTEN KEDEPANNYA :
+KONTEN BULAN KE-1 :
 - Javascript
   * jQuery
   * ES6
@@ -9,3 +9,8 @@ KONTEN KEDEPANNYA :
 - PHP Native
 - Python
  * Django
+
+KONTEN BULAN KE-2 :
+- Membuat project website statis
+-  Cara root All Phone xiaomi
+- Web scrapping
