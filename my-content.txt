@@ -14,3 +14,4 @@ KONTEN BULAN KE-2 :
 - Membuat project website statis
 -  Cara root All Phone xiaomi
 - Web scrapping
+- Mempelajari termux from hero to zero
