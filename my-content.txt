@@ -15,3 +15,6 @@ KONTEN BULAN KE-2 :
 -  Cara root All Phone xiaomi
 - Web scrapping
 - Mempelajari termux from hero to zero
+- Ngoding java
+- Project with java
+- Ngehek via java
