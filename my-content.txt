@@ -14,3 +14,6 @@ KONTEN BULAN KE-2 :
 - Membuat project website statis
 -  Cara root All Phone xiaomi
 - Web scrapping
+- Ngoding java
+- Project with java
+- Ngehek via java
