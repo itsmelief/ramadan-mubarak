@@ -18,3 +18,9 @@ KONTEN BULAN KE-2 :
 - Ngoding java
 - Project with java
 - Ngehek via java
+
+KONTEN BULAN KE-3 :
+- Aapa itu API
+- Room Tour
+- Cara fokus belajar berjam-jam
+- Belajar C++
