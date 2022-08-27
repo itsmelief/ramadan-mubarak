@@ -26,3 +26,5 @@ KONTEN BULAN KE-3 :
 - Belajar C++
 - Belajar kalkulus
 - Belajar NodeJS
+- Web hosting
+- Belajar PHP untuk pemula
