@@ -35,3 +35,4 @@ KONTEN BULAN KE-4 :
 - Technical meeting
 - Room tour
 - Praktik algoritma
+- Belajar logika
