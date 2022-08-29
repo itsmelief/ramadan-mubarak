@@ -16,8 +16,6 @@ KONTEN BULAN KE-2 :
 - Web scrapping
 - Mempelajari termux from hero to zero
 - Ngoding java
-- Project with java
-- Ngehek via java
 
 KONTEN BULAN KE-3 :
 - Apa itu API
@@ -33,3 +31,7 @@ KONTEN BULAN KE-4 :
 - Cara pasang module magisk
 - Root all xiaomi
 - Unlock bootloader all xiaomi
+- Addoptable memori card
+- Technical meeting
+- Room tour
+- Praktik algoritma
