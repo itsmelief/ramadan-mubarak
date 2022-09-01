@@ -16,3 +16,4 @@ My Daily Planner
 - Mempelajari ilmu matematika
 - Belajar pytho dengan struktur
 - Latihan kuis python
+- Mempelajari algoritma & logika
