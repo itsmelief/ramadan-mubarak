@@ -15,3 +15,4 @@ My Daily Planner
 - Mengerjakan tugas sekolah
 - Mempelajari ilmu matematika
 - Belajar pytho dengan struktur
+- Latihan kuis python
