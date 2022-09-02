@@ -24,6 +24,8 @@ My Daily Planner
 - Memperdalami ilmu yang telah dipelajari
 - Mengerjakan tugas sekolah
 - Mempelajari ilmu matematika
-- Belajar pytho dengan struktur
+
+22:00 - End
+- Belajar python dengan struktur
 - Latihan kuis python
 - Mempelajari algoritma & logika
