@@ -36,3 +36,4 @@ Jadwal Pelajaran
 Senin
 - PAI
 - ASJ
+- PPKKN
