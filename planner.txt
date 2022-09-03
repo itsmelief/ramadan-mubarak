@@ -38,3 +38,5 @@ Senin
 - ASJ
 - PPKKN
 - MTK
+
+Selasa
