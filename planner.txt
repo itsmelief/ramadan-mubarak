@@ -41,3 +41,4 @@ Senin
 
 Selasa
 - TLJ
+- AIJ
