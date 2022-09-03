@@ -35,3 +35,4 @@ Jadwal Pelajaran
 
 Senin
 - PAI
+- ASJ
