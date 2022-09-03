@@ -57,3 +57,4 @@ Kamis
 
 Jum'at
 - ASJ
+- AIJ
